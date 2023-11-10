@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EssamBoss
-- 👀 I’m interested in making website via front end and i like to make games. 
-- 🌱 I’m currently learning JavaScript# , Python and CSS++
+- 👋 Hi, I’m @Essam
+- 👀 I’m interested in making via front-end with CSS , JavaScript and HTML. 
+- 🌱 I’m currently learning Python , java and c++ so i can develop more 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me essam.makiya16@gmail.com
 
